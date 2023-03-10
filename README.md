@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm cypha.io</h1>
+<h1 align="center">Hi 👋, I'm cyphahimself</h1>
 <h3 align="center">A young frontend developer from Ghana</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cypha-io&label=Profile%20views&color=0e75b6&style=flat" alt="cypha-io" /> </p>
