@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Code-With-Chamba](https://github.com/cypha-io/Code-With-Chamba)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **ReactJS**
 
 - 👯 I’m looking to collaborate on **Microsoft**
 
@@ -17,8 +17,8 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/cypha-io/](https://github.com/cypha-io/)
 
-- 💬 Ask me about **Web Development**
+- 💬 Ask me about **Web Developmen & Software Engineeringt**
 
-- 📫 How to reach me **cyphahimself@teensraveofficial.com**
+- 📫 How to reach me **cnanang@st.ug.edu.gh**
 
 - ⚡ Fun fact **I'm fun to be with lol :)**
