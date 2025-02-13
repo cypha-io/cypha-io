@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cypha-io" alt="cypha-io" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/cyphahimself" target="blank"><img src="https://img.shields.io/twitter/follow/cyphahimself?logo=twitter&style=for-the-badge" alt="cyphahimself" /></a> </p>
+<p align="left"> <a href="https://instagram.com/cyphahimself" target="blank"><img src="https://img.shields.io/twitter/follow/cyphahimself?logo=twitter&style=for-the-badge" alt="cyphahimself" /></a> </p>
 
 - 🔭 I’m currently working on [Code-With-Chamba](https://github.com/cypha-io/Code-With-Chamba)
 
