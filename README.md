@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://instagram.com/cyphahimself" target="blank"><img src="https://img.shields.io/twitter/follow/cyphahimself?logo=twitter&style=for-the-badge" alt="cyphahimself" /></a> </p>
 
-- 🔭 I’m currently working on [Code-With-Chamba](https://github.com/cypha-io/Code-With-Chamba)
+- 🔭 I’m currently working on [Code-With-Chamba](https://github.com/cypha-io/hackaton)
 
 - 🌱 I’m currently learning **ReactJS**
 
