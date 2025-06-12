@@ -29,21 +29,6 @@
 - **DevOps:** Docker, GitHub Actions
 - **Design:** Figma, Photoshop
 
----
-
-## 🚀 Projects
-
-| Name           | Description                        | Tech Stack                | Link                     |
-|----------------|------------------------------------|---------------------------|--------------------------|
-| Project Alpha  | Innovative productivity tool        | React, Node.js, MongoDB   | [Repo](#)                |
-| Project Beta   | Social networking platform          | Next.js, Express, Redis   | [Repo](#)                |
-| Portfolio Site | Personal portfolio & blog           | Gatsby, Tailwind          | [Live](#)                |
-| Open Source X  | Contributor to OSS                  | Python, JavaScript        | [Profile](#)             |
-
-*Replace the above with your actual projects and links!*
-
----
-
 ## 🎯 Hobbies
 
 - 🕹️ Gaming
@@ -67,11 +52,11 @@
 ## 📫 Connect with Me
 
 <p align="center">
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://instagram.com/your-instagram"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-  <a href="https://snapchat.com/add/your-snapchat"><img src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=black" alt="Snapchat"></a>
-  <a href="https://wa.me/yourwhatsappphonenumber"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
+  <a href="mailto:chamba@sikano.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="[https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/chamba-nanang/)"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://instagram.com/blvcknvtive"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://snapchat.com/add/cyphahimself"><img src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=black" alt="Snapchat"></a>
+  <a href="https://wa.me/0538521663"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
 </p>
 
 ---
