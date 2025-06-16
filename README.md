@@ -14,6 +14,7 @@
 - **Profession:** Software Engineer
 - **Location:** 🌍 Earth
 - **Passionate about:** Building robust systems, automation, and open-source
+- There are a lot of private repositories 😂 
 
 ---
 
